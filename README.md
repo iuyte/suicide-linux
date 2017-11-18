@@ -1,6 +1,10 @@
 Suicide Linux
 =============
 
+Edits by @iuyte:
+    - Hopefully deletes random file with each mistake
+    - See how far you can go!
+
 [Suicide Linux](https://qntm.org/suicide) is now available from the comfort of Docker!
 
 With a single command, an instance of _Suicide Jessie_ will be downloaded and booted up, for all your suicidal needs.
